@@ -50,5 +50,4 @@ optional formats:
   Add execute permissions to the script: `chmod 744 ~/.bin/y`
 
   Update PATH variable in `~/.bashrc` or `~/.zshrc` (if on macOS): `export PATH=$PATH:~/.bin`
-  
-  ## Conclusions
+ 
