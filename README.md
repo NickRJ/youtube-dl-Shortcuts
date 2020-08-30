@@ -1,5 +1,5 @@
 # youtube-dl-Shortcuts
-Small shortcuts for youtube-dl.
+Shortcuts for youtube-dl. Adds flags --1080p, --720p + more!
 
 Download a 1080p video:
 
