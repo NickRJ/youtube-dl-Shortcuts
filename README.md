@@ -51,3 +51,4 @@ optional formats:
 
   Update PATH variable in `~/.bashrc` or `~/.zshrc` (if on macOS): `export PATH=$PATH:~/.bin`
  
+  ### Enjoy!
