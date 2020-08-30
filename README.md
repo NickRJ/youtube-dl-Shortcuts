@@ -15,7 +15,6 @@ youtube-dl -f "bestvideo[height<=1080]+bestaudio/best[height<=1080]" [url]
 
 
 ## Usage
-This is simply a python wrapper for youtube-dl—all other flags are passed to the main program.
 ```
 usage: y [-h]
          [--2160 | --1440 | --1080 | --720 | --480 | --360 | --240 | --144 | --best]
@@ -36,6 +35,7 @@ optional formats:
   --144, --144p
   --best           Best format as single file
   ```
+  This is simply a python wrapper for youtube-dl—all other flags are passed to the main program.
     
   ## Installation
   
