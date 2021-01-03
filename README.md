@@ -1,10 +1,10 @@
 # youtube-dl-Shortcuts
-Shortcuts for youtube-dl. Adds flags --1080p, --720p + more!
+Quickly select youtube-dl formats. Adds flags --1080, --720, --480 and more.
 
 Download a 1080p video:
 
 ```
-y --1080p [url]
+y --1080 [url]
 ``` 
  
 vs 
@@ -35,13 +35,13 @@ optional formats:
   --144, --144p
   --best           Best format as single file
   ```
-  This is simply a python wrapper for youtube-dl—all other flags are passed to the main program.
+  This is simply a python wrapper for youtube-dl. All other flags are passed to the main program.
     
   ## Installation
   
   Download the script and create a [custom terminal command](https://askubuntu.com/questions/118312/how-can-i-create-a-custom-terminal-command-to-run-a-script).
   
-  ### didn't click the link
+  ### How?
   
   Create a `.bin` directory in your home directory if it doesn't exist: `mkdir ~/.bin`
   
